@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JetBooks</string>
+    <string name="about_me">About Me</string>
+    <string name="about_page">About Page</string>
+    <string name="back">Back</string>
+    <string name="logo">Logo</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="intro_name">Bagus Imam Prakoso</string>
+    <string name="intro_email">bagusjudge@gmail.com</string>
+</resources>
